@@ -11,7 +11,4 @@ req = requests.post('https://textbelt.com/text', {
   'key': 'textbelt',
 })
 
-if req.json['success']:
-	print('Message sent!')
-else:
-	print('Error')
+print (req.text)
