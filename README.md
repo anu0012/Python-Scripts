@@ -13,3 +13,7 @@ The script shows the percentage of positive and negative tweets for a given term
 # movie-recommendation.py
 
 Recommendation system that suggests movies a user would like in Python using the LightFM recommendation library.
+
+# send_sms.py
+
+Python script to send sms using textbelt API.
